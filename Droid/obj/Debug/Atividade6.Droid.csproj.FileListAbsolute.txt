@@ -1,0 +1,2 @@
+/Users/rafa/Desktop/trabalho-xamarin/AtividadesTrabalhao/Atividade6/Droid/obj/Debug/Atividade6.Droid.csprojResolveAssemblyReference.cache
+/Users/rafa/Desktop/trabalho-xamarin/AtividadesTrabalhao/Atividade6/Droid/obj/Debug/Atividade6.Droid.csproj.CoreCompileInputs.cache

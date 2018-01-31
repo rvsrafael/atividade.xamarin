@@ -1,0 +1,7 @@
+/Users/rafa/Desktop/trabalho-xamarin/AtividadesTrabalhao/Atividade6/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/rafa/Desktop/trabalho-xamarin/AtividadesTrabalhao/Atividade6/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/rafa/Desktop/trabalho-xamarin/AtividadesTrabalhao/Atividade6/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/rafa/Desktop/trabalho-xamarin/AtividadesTrabalhao/Atividade6/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/rafa/Desktop/trabalho-xamarin/AtividadesTrabalhao/Atividade6/iOS/obj/iPhoneSimulator/Debug/Atividade6.iOS.csprojResolveAssemblyReference.cache
+/Users/rafa/Desktop/trabalho-xamarin/AtividadesTrabalhao/Atividade6/iOS/obj/iPhoneSimulator/Debug/Atividade6.iOS.csproj.Atividade6.iOS.exe.config
+/Users/rafa/Desktop/trabalho-xamarin/AtividadesTrabalhao/Atividade6/iOS/obj/iPhoneSimulator/Debug/Atividade6.iOS.csproj.CoreCompileInputs.cache
